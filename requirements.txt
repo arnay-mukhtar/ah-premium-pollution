@@ -1,0 +1,11 @@
+# Python 3.10+ (the analysis was run on Google Colab, free tier)
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+statsmodels>=0.14
+matplotlib>=3.7
+requests>=2.31
+xarray>=2023.1
+netCDF4>=1.6
+cdsapi>=0.7      # only for the ERA5 boundary-layer download in step 02
+akshare>=1.12    # only for re-downloading A- and H-share prices in step 01 and step 20

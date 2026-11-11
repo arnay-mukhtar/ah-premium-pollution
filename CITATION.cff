@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite the paper and the package."
+title: "Replication package for: Air Pollution and the A-H Premium: Pre-Registered Evidence from Shanghai–Hong Kong Dual Listings and the Limits of Meteorological Instruments"
+authors:
+  - family-names: Mukhtar
+    given-names: Arnay
+    orcid: "https://orcid.org/0009-0003-5546-0418"
+    email: mukhtarovarnay@gmail.com
+license: MIT
+date-released: 2026-11-11
+version: "1.1"
+doi: 10.5281/zenodo.24046754
+url: "https://doi.org/10.5281/zenodo.24046754"
+repository-code: "https://github.com/arnay-mukhtar/ah-premium-pollution"
+keywords:
+  - air pollution
+  - A-H premium
+  - dual listings
+  - instrumental variables
+  - equivalence testing
+  - pre-registration
+preferred-citation:
+  type: report
+  title: "Air Pollution and the A-H Premium: Pre-Registered Evidence from Shanghai–Hong Kong Dual Listings and the Limits of Meteorological Instruments"
+  authors:
+    - family-names: Mukhtar
+      given-names: Arnay
+      orcid: "https://orcid.org/0009-0003-5546-0418"
+  year: 2026
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7689778"
+  notes: "Working paper, SSRN. Pre-registration: https://doi.org/10.17605/OSF.IO/BG3ZE"
