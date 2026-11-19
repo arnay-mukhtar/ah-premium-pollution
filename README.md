@@ -129,4 +129,5 @@ Python 3.10 or later; see `requirements.txt`. Anderson-Rubin inference and the D
 Please cite the paper and the archived package (DOI 10.5281/zenodo.24046754). `CITATION.cff` gives both.
 
 ## 7. Licence
-Code: MIT. Derived data: CC BY 4.0, subject to the terms of the original sources. See `LICENSE`.
+Code: MIT (see `LICENSE`). The derived data on Zenodo are released under CC BY 4.0, subject to the terms of the original sources.
+
