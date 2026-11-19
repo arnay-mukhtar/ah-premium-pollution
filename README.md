@@ -1,7 +1,7 @@
 # Air Pollution and the A-H Premium: replication code
 
 **Paper:** Arnay Mukhtar (2026), *Air Pollution and the A-H Premium: Pre-Registered Evidence from Shanghai–Hong Kong Dual Listings and the Limits of Meteorological Instruments.* Working paper, SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7689778
-**Pre-registration:** https://osf.io/px4r6, DOI [10.17605/OSF.IO/BG3ZE](https://doi.org/10.17605/OSF.IO/BG3ZE) (filed 5 November 2026, before any outcome was estimated)
+**Pre-registration:** DOI [10.17605/OSF.IO/BG3ZE](https://doi.org/10.17605/OSF.IO/BG3ZE) (filed 5 November 2026, before any outcome was estimated) **OSF project:** [osf.io/px4r6](https://osf.io/px4r6), DOI [10.17605/OSF.IO/PX4R6](https://doi.org/10.17605/OSF.IO/PX4R6)
 **Archived package with data:** Zenodo, DOI [10.5281/zenodo.24046754](https://doi.org/10.5281/zenodo.24046754)
 **Author:** Arnay Mukhtar · mukhtarovarnay@gmail.com · ORCID [0009-0003-5546-0418](https://orcid.org/0009-0003-5546-0418)
 
